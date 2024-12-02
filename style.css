@@ -1,0 +1,15 @@
+*{
+    padding: 0; /* حذف فاصله داخلی پیش‌فرض */
+    margin: 0; /* حذف فاصله خارجی پیش‌فرض */
+}
+
+
+
+button{
+    padding: 5px 10px;
+}
+
+
+#message{
+    margin-bottom: 20px;
+}
